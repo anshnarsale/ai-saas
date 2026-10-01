@@ -1,0 +1,5 @@
+{
+  "stream_enabled": true,
+  "chunk_size": 8,
+  "flush_interval_ms": 25
+}
