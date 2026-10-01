@@ -1,0 +1,5 @@
+{
+  "track_tokens": true,
+  "cost_per_1k_input": 0.0015,
+  "cost_per_1k_output": 0.0020
+}
