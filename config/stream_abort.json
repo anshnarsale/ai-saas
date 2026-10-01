@@ -1,0 +1,4 @@
+{
+  "abort_on_disconnect": true,
+  "log_partial_tokens": true
+}
