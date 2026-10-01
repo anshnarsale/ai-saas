@@ -1,0 +1,3 @@
+{
+  "templates": ["code_review", "sql_optimizer", "summarizer", "translator"]
+}
