@@ -1,0 +1,3 @@
+{
+  "supported_scopes": ["inference:write", "models:read", "analytics:read", "admin"]
+}
